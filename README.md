@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/TjebsC/magimisc/workflows/build-check/badge.svg)](https://github.com/TjebsC/magimisc/actions)
+[![R build status](https://github.com/TjebsC/magimisc/workflows/test-coverage/badge.svg)](https://github.com/TjebsC/magimisc/actions)
 <!-- badges: end -->
 
 ![](misc/imgfile.png)
